@@ -1,0 +1,9 @@
+.registr-form input {
+    margin-bottom: 0.5rem;
+}
+.registr-form input>div {
+    margin-bottom: 1rem;
+}
+.registr-form label {
+    margin-bottom: 0.5rem;
+}
